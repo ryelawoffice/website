@@ -15,3 +15,11 @@ this is some content
 - unorderd list
 
 [link text](https://google.com)
+
+
+| col1 | col 2 |
+| --- | --- |
+| row | data |
+| row | data |
+| row | data |
+| row | data |
